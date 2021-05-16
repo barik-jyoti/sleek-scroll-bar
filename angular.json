@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SleekScrollBar"
+    }
+  },
+  "defaultProject": "SleekScrollBar",
+  "cli": {
+    "analytics": false
+  }
 }
